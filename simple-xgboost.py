@@ -1,9 +1,9 @@
 #coding:utf-8
 #-------------------------------------------------------------------------------
-# Description:  Machine Learning Algorithm Practice
-# Project Name: PycharmProjects
-# Name:         simple-xgboost
-# Author:       0049003103
+# Description:  xgboost with python
+# Project Name: xgboost
+# Name:         feature importance-model save-xgboost
+# Author:       szsongyj
 # DateTime:     2019/7/5 14:49
 #-------------------------------------------------------------------------------
 

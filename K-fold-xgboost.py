@@ -1,10 +1,10 @@
 #coding:utf-8
 
 #-------------------------------------------------------------------------------
-# Description:  Machine Learning Algorithm Practice
-# Project Name: PycharmProjects
+# Description:  xgboost with python
+# Project Name: xgboost
 # Name:         K-fold-xgboost
-# Author:       0049003103
+# Author:       szsongyj
 # DateTime:     2019/7/8 16:21
 #-------------------------------------------------------------------------------
 # k-fold cross validation evaluation of xgboost model

@@ -1,10 +1,10 @@
 #coding:utf-8
 
 #-------------------------------------------------------------------------------
-# Description:  Machine Learning Algorithm Practice
-# Project Name: PycharmProjects
+# Description:  xgboost with python
+# Project Name: xgboost
 # Name:         early-stopping-xgboost
-# Author:       0049003103
+# Author:       szsongyj
 # DateTime:     2019/7/8 21:25
 #-------------------------------------------------------------------------------
 
