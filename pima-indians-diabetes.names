@@ -1,0 +1,35 @@
+
+UCI datasets：
+http://archive.ics.uci.edu/ml/datasets.php
+
+pima-indians-diabetes.csv
+【1】Pregnancies：怀孕次数 
+【2】Glucose：葡萄糖 
+【3】BloodPressure：血压 (mm Hg) 
+【4】SkinThickness：皮层厚度 (mm) 
+【5】Insulin：胰岛素 2小时血清胰岛素（mu U / ml 
+【6】BMI：体重指数 （体重/身高）^2 
+【7】DiabetesPedigreeFunction：糖尿病谱系功能 
+【8】Age：年龄 （岁） 
+【9】Outcome：类标变量 （0或1）
+--------------------- 
+作者：易悠 
+来源：CSDN 
+原文：https://blog.csdn.net/yizheyouye/article/details/79791473 
+版权声明：本文为博主原创文章，转载请附上博文链接！
+1. Number of times pregnant
+#
+2. Plasma glucose concentration a 2 hours in an oral glucose tolerance test
+
+3. Diastolic blood pressure (mm Hg)
+4. Triceps skin fold thickness (mm)
+
+5. 2-Hour serum insulin (mu U/ml)
+
+6. Body mass index (weight in kg/(height in m)^2)
+
+7. Diabetes pedigree function
+
+8. Age (years)
+
+9. Class variable (0 or 1)
